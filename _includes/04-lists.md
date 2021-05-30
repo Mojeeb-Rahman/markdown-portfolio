@@ -1,4 +1,4 @@
-### Developoment Technologies and Languages:
+### Development Technologies and Languages:
 1. Pyhton
 2. PHP
 3. Java
@@ -19,3 +19,8 @@
   * Islamic General Knowledge
   * Technologies
 * Machine Learning and AI Models Development and Application
+
+### Development Collaboration Tools:
+* Github
+* Git
+
