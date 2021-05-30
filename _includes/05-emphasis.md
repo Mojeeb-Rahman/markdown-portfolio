@@ -1,7 +1,3 @@
-*This text will be italic*
-_This will also be italic_
+**This protfolio is made during Github Practice in 2021/5/30**
 
-**This text will be bold**
-__This will also be bold__
 
-_You **can** combine them_
