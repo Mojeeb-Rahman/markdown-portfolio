@@ -1,14 +1,21 @@
-### This is the list of items:
-1. Item 1
-2. Item 2
-3. Item 3
-   1. Item 3a
-   2. Item 3b :+1:
+### Developoment Technologies and Languages:
+1. Pyhton
+2. PHP
+3. Java
+4. Web Technologies
+   1. HTML
+   2. CSS
+   3. Javascript
+      1. VueJs Framework
+      2. React Framework
+      3. Angular Framework
+ 
  
 
 
-### This is unordered list:
-* Item 1
-* Item 2 🇦🇫
-  * Item 2a
-  * Item 2b 💙
+### My Favorite Technical Area:
+* Software Design and Development for 🇦🇫
+* Reasearch 
+  * Islamic General Knowledge
+  * Technologies
+* Machine Learning and AI Models Development and Application
